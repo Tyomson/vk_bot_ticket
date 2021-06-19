@@ -1,0 +1,9 @@
+TOKEN = '84....0f0456d9'
+GROUP_ID = 1234
+
+DB_CONFIG = dict(
+    provider='postgres',
+    user='---',
+    host='----',
+    database='vk_chat_bot'
+)
